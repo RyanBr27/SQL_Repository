@@ -1,12 +1,15 @@
 # SQL_Repository
 
-DVD Rental
+This SQL repository shares a combination of various SQL projects I have developed over time to strengthen my data analysis and database management skills. 
 
-The project represents some of the features and business processes of a DVD rental store. I will demonstrate my ability to use the FROM, WHERE, COUNT, GROUP BY, ORDER BY, DISTINCT, SUM, and JOINS.
 
-Airline Delays Prediction
+SQL Projects:
 
-Airlines dataset has 539383 instances and 8 different features. The task is to predict whether a given flight will be delayed, given the information of the scheduled departure.
+DVD Rental Store
+Airline Delay Prediction Analysis
+Book Stoer Invetory Management
 
-Book Store Inventory Management
+
+
+
 
